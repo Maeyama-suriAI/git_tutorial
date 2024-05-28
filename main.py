@@ -166,6 +166,7 @@ def show_graph(dirpath,classNum):
     print(classNum,optVal)
 
 if __name__ == '__main__':
+    # git diff
     # calculation()
     # big_calc()
     # graph()
