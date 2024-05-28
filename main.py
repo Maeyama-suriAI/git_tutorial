@@ -171,6 +171,7 @@ if __name__ == '__main__':
     # graph()
     # test()
     # git_tutorial
+    # git check
     dirpath = "data_prob1_hSp"
     for i in range(47):
         show_graph(dirpath,i)
